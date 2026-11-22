@@ -258,6 +258,59 @@ button:houver {
     box-shadow: 0 0 10px rgba(160, 216, 255, 0.8);
 }
 
+.tabela-wrap {
+    overflow-x: auto;
+    margin-top: 15px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: 'Inter', sans-serif;
+    color: #e6e6e6;
+}
+
+th, td {
+    padding: 10px 12px;
+    text-align: left;
+    border-bottom: 1px solid rgba(205, 217, 240, 0.25);
+    vertical-align: top;
+}
+
+th {
+    color: #cdd9f0;
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+.acoes {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+acoes a {
+    color: #cdd9f0;
+}
+
+.acoes form {
+    margin: 0;
+}
+
+.btn-excluir {
+    margin: 0;
+    padding: 6px 12px;
+    background-color: #ff9a9a;
+    font-size: 0.9rem;
+}
+
+.erro {
+    color: #ff9a9a;
+}
+
+#editar a {
+    color: #cdd9f0;
+}
+
 @media (max-width: 768px) {
     .galeria {
         grid-template-columns: repeat(2, 1fr);

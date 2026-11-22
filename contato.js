@@ -28,7 +28,6 @@ form.addEventListener("submit", (evento) => {
         mostrarRetorno("A mensagem precisa ter pelo menos 10 caracteres.", false);
         return;
     }
-
-    mostrarRetorno(`Obrigado, ${nome}! Sua mensagem foi enviada.`, true);
-    form.reset();
+    
+    form.submit();
 });
