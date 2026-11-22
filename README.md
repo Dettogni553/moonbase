@@ -1,4 +1,4 @@
-# 🌙 MoonBase
+#  MoonBase
 
 Site sobre a **Lua**, feito como trabalho final da disciplina de **Desenvolvimento Web** (HTML, CSS, JavaScript e PHP).
 
