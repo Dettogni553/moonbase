@@ -4,9 +4,6 @@ Site sobre a **Lua**, feito como trabalho final da disciplina de **Desenvolvimen
 
 O MoonBase é um espaço para quem gosta de observar o céu noturno: reúne curiosidades sobre a Lua, mostra a fase lunar do dia, tem uma galeria de fotos e um formulário de contato com banco de dados.
 
-**Autor:** Gabriel Dettogni Gomes (trabalho individual)
-**Repositório:** https://github.com/Dettogni553/moonbase
-
 ## Funcionalidades
 
 - **Página inicial** com texto de apresentação, vídeo de fundo, curiosidade sobre a Lua que muda sozinha a cada 8 segundos e a **fase da Lua de hoje**, calculada em JavaScript.
